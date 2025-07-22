@@ -6,7 +6,7 @@ public class Ex05 {
 
 	public static void main(String[] args) {
 Scanner scanner = new Scanner (System.in);
-System.out.print("Informe um numero inteito");
+System.out.print("Informe um numero inteito: ");
 int numeroInteiro = scanner.nextInt();
 
 int antecessor = numeroInteiro-1;
