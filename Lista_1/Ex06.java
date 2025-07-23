@@ -10,6 +10,7 @@ Scanner scanner = new Scanner (System.in);
 	int idade = scanner.nextInt();
 	
 	int calcIdade = idade *365;
+	System.out.print("Meu cachorro é bagunceiro");
 	
 	System.out.print("A idade em dias é " + calcIdade);
 	}
