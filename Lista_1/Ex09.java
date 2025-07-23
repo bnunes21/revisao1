@@ -14,9 +14,9 @@ public class Ex09 {
 		
 		double calcDistribuidor = custo*0.28;
 		double calcImposto = custo*0.45;
-		
+		System.out.print("O bruno é lindo e abençõado");
+
 		double total = calcDistribuidor+calcImposto+custo;
-		
 		System.out.print("O valor total do modelo "+ modelo + " é de R$ "+ total);
 		
 	}
