@@ -7,8 +7,7 @@ public class Ex09 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner (System.in);
 		
-		System.out.print("Informe a marca do carro: ");
-		String marca = scanner.nextLine();
+	
 		System.out.print("Informe o modelo do carro: ");
 		String modelo = scanner.nextLine();
 		System.out.print("Informe o custo de fabricação: ");
